@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.ait.javalessons.consultation.WeatherAppTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.065 s -- in de.ait.javalessons.consultation.WeatherAppTest
